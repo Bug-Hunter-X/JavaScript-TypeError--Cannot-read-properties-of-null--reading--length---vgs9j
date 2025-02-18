@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error and its solution. The `bug.js` file contains code that throws a `TypeError` when a variable is unexpectedly null or undefined. The `bugSolution.js` file provides a robust solution that handles these cases, preventing errors.
